@@ -1,0 +1,1 @@
+Remember, the numbers after the opcode are the positions of the numbers in the array, use the values in these positions to add/multiply and put in the 3rd position before the next opcode.
